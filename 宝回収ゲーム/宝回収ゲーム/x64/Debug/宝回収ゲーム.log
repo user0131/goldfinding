@@ -1,0 +1,3 @@
+﻿  宝回収.cpp
+C:\Users\stbq4\source\repos\ゲーム開発\CUIのゲーム\宝回収ゲーム\宝回収.cpp(68,20): warning C4553: '==': 式の結果が使用されていません。'=' を意図していますか?
+  宝回収ゲーム.vcxproj -> C:\Users\stbq4\source\repos\ゲーム開発\CUIのゲーム\宝回収ゲーム\x64\Debug\宝回収ゲーム.exe
